@@ -1,0 +1,11 @@
+libs/x-content/impl/src/main/java/org/elasticsearch/xcontent/provider/smile/SmileXContentImpl.java
+  ai_agent 14,31,108-125
+libs/x-content/impl/src/test/java/org/elasticsearch/xcontent/provider/smile/SmileXContentImplTests.java
+  ai_agent 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "702e8f007a8d59f35fd45df36a52d9920e9d6c92",
+  "prompts": {}
+}
