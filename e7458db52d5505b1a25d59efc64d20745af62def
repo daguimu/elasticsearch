@@ -1,0 +1,13 @@
+x-pack/plugin/mapper-constant-keyword/src/test/java/org/elasticsearch/xpack/constantkeyword/mapper/ConstantKeywordFieldTypeTests.java
+  ai_agent 61-76
+server/src/main/java/org/elasticsearch/index/mapper/ConstantFieldType.java
+  ai_agent 143
+x-pack/plugin/mapper-constant-keyword/src/main/java/org/elasticsearch/xpack/constantkeyword/mapper/ConstantKeywordFieldMapper.java
+  ai_agent 12,16,24,230-245
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "e7458db52d5505b1a25d59efc64d20745af62def",
+  "prompts": {}
+}
