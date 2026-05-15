@@ -1,0 +1,9 @@
+docs/changelog/148527.yaml
+  ai_agent 1-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.1",
+  "base_commit_sha": "5f61ff71feee506301ee18f1c8cdacf9091a5bb8",
+  "prompts": {}
+}
