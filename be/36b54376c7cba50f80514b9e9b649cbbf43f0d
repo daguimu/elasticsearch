@@ -1,0 +1,15 @@
+libs/x-content/src/main/java/org/elasticsearch/xcontent/support/filtering/FilterPath.java
+  ai_agent 153-159,180-182,187,193,198-215,217-218
+libs/x-content/src/test/java/org/elasticsearch/xcontent/support/filtering/FilterPathTests.java
+  ai_agent 408-410,412-425,429,435,442-444,449
+docs/changelog/144908.yaml
+  ai_agent 2
+server/src/test/java/org/elasticsearch/common/xcontent/support/XContentSourceFilterTests.java
+  ai_agent 538-540,556
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "be36b54376c7cba50f80514b9e9b649cbbf43f0d",
+  "prompts": {}
+}
