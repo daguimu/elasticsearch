@@ -1,0 +1,13 @@
+server/src/test/java/org/elasticsearch/monitor/metrics/IndexModeStatsActionTypeTests.java
+  ai_agent 1-64
+server/src/main/java/org/elasticsearch/index/IndexMode.java
+  ai_agent 882-897
+server/src/main/java/org/elasticsearch/monitor/metrics/IndexModeStatsActionType.java
+  ai_agent 12,118-129
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "9e5b3ce7787751a542d63da7716ba169e6b3b01d",
+  "prompts": {}
+}
