@@ -1,0 +1,33 @@
+x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/elastic/SageMakerElasticTextEmbeddingServiceSettingsTests.java
+  ai_agent 14,22,24,34,42-122,126-130
+x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/sagemaker/SageMakerServiceTests.java
+  ai_agent 45,71-73,148-199
+x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/SageMakerSchemaPayloadTestCase.java
+  ai_agent 19,66-70
+x-pack/plugin/inference/src/main/java/org/elasticsearch/xpack/inference/services/sagemaker/model/SageMakerServiceSettings.java
+  ai_agent 24,171-176,215
+x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/SageMakerSchemasTests.java
+  ai_agent 40
+docs/changelog/150834.yaml
+  ai_agent 5
+x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/sagemaker/model/SageMakerServiceSettingsTests.java
+  ai_agent 15,82-87,104-109,140-145,173-178,198-203
+x-pack/plugin/inference/src/main/java/org/elasticsearch/xpack/inference/services/sagemaker/model/SageMakerModelBuilder.java
+  ai_agent 15,36,77-78
+x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/openai/SageMakerOpenAiServiceSettingsTests.java
+  ai_agent 12,22,29-33,63-103
+x-pack/plugin/inference/src/main/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/SageMakerSchemaPayload.java
+  ai_agent 18,44-48
+x-pack/plugin/inference/src/main/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/SageMakerSchema.java
+  ai_agent 27,205-210
+x-pack/plugin/inference/src/main/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/elastic/ElasticTextEmbeddingPayload.java
+  ai_agent 25,33,78-83,300-320,326-330,337-346,365
+x-pack/plugin/inference/src/main/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/openai/OpenAiTextEmbeddingPayload.java
+  ai_agent 30,63-68,192-196,203-216,218
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "5a0945c6c7b3fe9f47644f576cdb634b2335f8cb",
+  "prompts": {}
+}
