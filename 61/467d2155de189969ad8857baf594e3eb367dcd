@@ -1,0 +1,17 @@
+x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/elastic/SageMakerElasticTextEmbeddingServiceSettingsTests.java
+  ai_agent 99-122
+x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/sagemaker/model/SageMakerServiceSettingsTests.java
+  ai_agent 135,170-171,197,353-354,368-369
+x-pack/plugin/inference/src/test/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/openai/SageMakerOpenAiServiceSettingsTests.java
+  ai_agent 93-105
+x-pack/plugin/inference/src/main/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/openai/OpenAiTextEmbeddingPayload.java
+  ai_agent 205,215
+x-pack/plugin/inference/src/main/java/org/elasticsearch/xpack/inference/services/sagemaker/schema/elastic/ElasticTextEmbeddingPayload.java
+  ai_agent 28,340,346-351
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.12",
+  "base_commit_sha": "61467d2155de189969ad8857baf594e3eb367dcd",
+  "prompts": {}
+}
